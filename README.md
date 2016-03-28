@@ -5,6 +5,7 @@ OVERVIEW: Decrypt Ciphertext to plaintext in C IA32 using bit manipulation,
 no string ASCII manipulation.
 
 REQUIREMENTS:
+
 1. Hard code username.
 
 2. Program takes one argument: ciphertext.txt
@@ -16,7 +17,7 @@ related functions.
 
 5. Decrypt file " username " and change file name to ciphertext.txt
 
-*/
+
 
 
 ![alt text](https://github.com/abstractmachines/cipherDecryptC/blob/master/cipherdecryptC_screenshot.png)
