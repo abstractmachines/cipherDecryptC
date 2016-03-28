@@ -1,0 +1,10 @@
+Script started on Sun 27 Mar 2016 05:01:51 PM PDT
+machina@ada:~$ whoami
+machina
+machina@ada:~$ gcc ciphertext_decrypt.c
+machina@ada:~$ ./a.out ciphertext.txt
+The quick brown fox jumped over the lazy dog. 
+machina@ada:~$ exit
+exit
+
+Script done on Sun 27 Mar 2016 05:02:13 PM PDT
