@@ -95,7 +95,7 @@ int checkFile(FILE * fp)
   return 0;
  }
 
- else if ( fp != NULL )
+ else if ( fp != NULL ) // should just be:  else
  {
   return 1;
  }
